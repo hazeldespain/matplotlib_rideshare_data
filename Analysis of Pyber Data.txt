@@ -1,0 +1,4 @@
+﻿Observable Trends from Pyber Data -
+1. If there are more rides in a city, then the average fare is typically lower.
+2. Urban type cities produce the majority of Pyber’s fare total (62.7%).
+3. There is a very low percentage of drivers in rural cities.
